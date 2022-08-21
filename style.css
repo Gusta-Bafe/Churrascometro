@@ -1,0 +1,94 @@
+.container {
+    width: 330px;
+    height: 570px;
+    background-color: rgb(231, 127, 127);
+    padding: 2rem;
+    border-top-right-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+    font-family: 'DynaPuff', cursive;
+    background-image: url(./img/2051657.jpg);
+    background-size: cover;
+    
+    
+}
+
+input {
+    background-color: rgba(255, 255, 255, 0.774);
+    display: block;
+    padding: 1.2rem;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 1rem;
+    border: none;
+    border-radius: 2rem;
+    color: rgb(0, 0, 0);
+
+
+}
+
+body {
+   
+    
+   background-image: url(img/599.jpg);
+   background-size: cover;
+    
+
+
+}
+
+h1 {
+    color: rgb(231, 213, 108);
+    margin-bottom: 60px;
+    font-size: 35px;
+    background-color: brown;
+    border-radius: 2rem;
+    box-sizing: border-box;
+}
+
+h2 {
+    color: rgb(231, 213, 108);
+    background-color: brown;
+    font-size: 20px;
+    border-radius: 2rem;
+    box-sizing: content-box;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    background-color: brown;
+    width: 120px;
+    height: 50px;
+    border: none;
+    border-radius: 2rem;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'DynaPuff', cursive;
+    color: rgb(222, 229, 156);
+
+
+}
+
+p {
+    margin-top: 15px;
+    background-color: brown;
+    color: rgb(255, 123, 0);
+    border-radius: 2rem;
+}
+.main{
+    padding-right: 150px;
+    float: right;
+    align-items: flex-start;
+    background-color: none;
+    color: rgb(243, 220, 16);
+    font-family: 'DynaPuff', cursive;
+    margin-top: 200px;
+}
+#titulo{
+    background-color: rgb(214, 203, 203);
+    color: rgba(160, 26, 26, 0.699);
+    
+}
